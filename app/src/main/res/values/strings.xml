@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Planetary</string>
+
+    <string-array name="locations">
+        <item>APN 068 232 320 Woodside CA 94062</item>
+        <item>12 Montecito Road Woodside CA 94062</item>
+        <item>370 Mountain Home Court Woodside CA 94062</item>
+        <item>1125 Spyglass Woods Drive Pebble Beach CA 93953</item>
+        <item>1066 Spyglass Woods Drive Pebble Beach CA 93953</item>
+        <item>1070 Spyglass Woods Drive Pebble Beach CA 93953</item>
+        <item>1062 Spyglass Woods Drive Pebble Beach CA 93953</item>
+        <item>204 Josselyn Lane Woodside CA 94062</item>
+        <item>13233 Woodstock Drive Nevada City CA 95959</item>
+        <item>176 Harcross Road Woodside CA 94062</item>
+        <item>309 Manuella Avenue Woodside CA 94062</item>
+    </string-array>
+</resources>
